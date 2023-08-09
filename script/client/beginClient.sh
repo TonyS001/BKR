@@ -29,3 +29,4 @@ END
 done
 
 wait
+echo "please wait for 30 seconds before get results!"
